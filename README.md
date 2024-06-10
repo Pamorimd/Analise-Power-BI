@@ -1,6 +1,6 @@
 ---
 
-# Relatório Interativo de Dados Educacionais
+# Relatório no Power BI de Dados Educacionais
 
 Este é um projeto pessoal desenvolvido para criar um relatório interativo para análise de dados educacionais, utilizando o Microsoft Power BI e Microsoft Excel.
 
